@@ -1,7 +1,5 @@
 import requests
-import webbrowser
-print('Program By Flxr | Instagram : z9ua | Discord.gg/FFF')
-webbrowser.open_new('https://discord.gg/fff')
+print('Program By Flxr | Instagram : 1ee_')
 webhook_url = input("Enter Webhook To Delete : ")
 if webhook_url.startswith("https://discord.com/api/webhooks/"):
     try:
